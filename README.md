@@ -49,7 +49,7 @@ Before you open up a codespace on a repository, you can create a development con
    ```
    .devcontainer/devcontainer.json
    ```
-1. In the body of the new **.devcontainer/devcontainer.json** file, add the following content:
+1. In the body of the new **.1** file, add the following content:
    ```
    {
        // Name this configuration
